@@ -21,7 +21,8 @@ Should be install npm (Node.js).
 4. Generate html file.  
 5. Clean dist folder.  
 6. webpack-dev-server.  
-6. Change out put js file name.  
+7. Change out put js file name.  
+8. devtool: 'inline-source-map'(source maps)  
 <br/>
 
 
