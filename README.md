@@ -3,7 +3,7 @@ This repository is webpack sample project for creating new webpack project.
 <br/><br/>
 
 ## Demo
-[demo](https://fukugit.github.io/js-library-animejs/)
+[demo](https://fukugit.github.io/webpack-empty-project/index.html)
 <br/>
 
 ## How to install
