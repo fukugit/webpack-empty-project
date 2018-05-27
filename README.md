@@ -1,10 +1,9 @@
 ## Description
-This repository is webpack sample project to implement actual project.  
+This repository is webpack sample project for creating new webpack project.  
 <br/><br/>
 
-## Precondition
-Should be install npm (Node.js).  
-<br/>
+## Demo
+[demo](https://fukugit.github.io/js-library-animejs/)
 
 ## How to install
 1. Clone this project.  
@@ -19,8 +18,8 @@ Should be install npm (Node.js).
 2. Load image file.  
 3. Load font file.  
 4. Generate html file.  
-5. Clean dist folder.  
-6. webpack-dev-server.  
+5. Clean "dist" folder.  
+6. webpack-dev-server(To execute `npm start`).  
 7. Change out put js file name.  
 8. devtool: 'inline-source-map'(source maps)  
 <br/>
